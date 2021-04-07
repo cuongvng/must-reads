@@ -1,0 +1,1 @@
+- [ÂU LO & CHỈ TRÍCH](https://thepresentwriter.com/mini-post-18)
