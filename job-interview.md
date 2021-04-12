@@ -9,3 +9,5 @@
 - What metric should I use to assess and correct myself in my first 30/60/90 days?
 - I’m sure you get plenty of job offers; what are the top 3 reasons you’re still here?
 - What is the biggest missing skill in the team today? What is the one thing a candidate can bring to the team that will serve as a multiplicative factor in the team’s success?
+
+3. [Resume Tips](https://yangshun.github.io/tech-interview-handbook/resume/)
