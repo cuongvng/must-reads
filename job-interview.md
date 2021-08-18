@@ -11,3 +11,8 @@
 - What is the biggest missing skill in the team today? What is the one thing a candidate can bring to the team that will serve as a multiplicative factor in the team’s success?
 
 3. [Resume Tips](https://yangshun.github.io/tech-interview-handbook/resume/)
+
+4. Offer negotiations:
+
+- [Ten Rules for Negotiating a Job Offer - haseeb qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [How Not to Bomb Your Offer Negotiation - haseeb qureshi](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
